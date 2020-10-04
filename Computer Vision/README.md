@@ -5,7 +5,8 @@ These files are using [Fashion-MNIST Dataset](https://github.com/zalandoresearch
 * Classification of 10 Classes from the Fashion-MNIST dataset using Keras with Tensorflow using only Dense layer hence ANN</br>
 [Classification using ANN](https://github.com/Stalwart-GS/Tensorflow-Developer-Practise/blob/main/Computer%20Vision/Classifying%20Fashion-MNIST%20using%20ANN.ipynb)</br>
 * Classification of 10 Classes from the Fashion-MNIST dataset using Keras with Tensorflow with Convolution Layers hence CNN</br>
-[Classification using CNN](https://github.com/Stalwart-GS/Tensorflow-Developer-Practise/blob/main/Computer%20Vision/Classifying%20Fashion-MNIST%20using%20CNN.ipynb)
-</br>
-</br>
-### Using Real world Images:
+[Classification using CNN](https://github.com/Stalwart-GS/Tensorflow-Developer-Practise/blob/main/Computer%20Vision/Classifying%20Fashion-MNIST%20using%20CNN.ipynb)</br>
+#### Instead of Fashion-MNIST, Using Real World Images:
+Solving actual classification problem using [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip) by [Lauren Cemoroney](https://github.com/lmoroney), instead of calculated Datasets like MNIST (28 X 28) images:</br>
+* Binary Classification using Real world Images and Testing them on random real world Images.</br>
+[Binary Classifier for Horse / Human](https://github.com/Stalwart-GS/Tensorflow-Developer-Practise/blob/main/Computer%20Vision/Binary%20Classification%20of%20Horse-or-Human%20using%20Real%20World%20Images.ipynb)
