@@ -7,6 +7,7 @@ These files are using [Fashion-MNIST Dataset](https://github.com/zalandoresearch
 </br>
 * Classification of 10 Classes from the Fashion-MNIST dataset using Keras with Tensorflow with Convolution Layers hence CNN</br>
 [Classification using CNN](https://github.com/Stalwart-GS/Tensorflow-Developer-Practise/blob/main/Computer%20Vision/Classifying%20Fashion-MNIST%20using%20CNN.ipynb)
+</br>
 
 These Files are using [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip) by [Lauren Cemoroney](https://github.com/lmoroney):
 * Binary Classification using Real world Images and Testing them on random real world Images.</br>
