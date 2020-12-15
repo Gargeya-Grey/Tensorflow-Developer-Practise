@@ -1,4 +1,4 @@
-## This Directory Contains the Notebooks Related to Computer Vision:
+## This Directory Contains the Notebooks Related to Computer Vision :
 
 ### Brief About the Repo:
 These files are using [Fashion-MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist) in this Directory:
